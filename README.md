@@ -25,5 +25,5 @@ Net Savings = [Total Income] - [Total Expense]
 (Insert preview image)
 
 ## Author
-- Nama: Erico Vinentcius
+- Nama: Erico Vincentcius
 - LinkedIn: https://www.linkedin.com/in/ericovincentcius/
