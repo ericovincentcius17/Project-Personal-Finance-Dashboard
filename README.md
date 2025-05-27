@@ -22,7 +22,8 @@ Net Savings = [Total Income] - [Total Expense]
 ```
 
 ## Screenshot
-(Insert preview image)
+![image](https://github.com/user-attachments/assets/c76a87d5-a610-440f-9ded-a37d41edb1a4)
+
 
 ## Author
 - Nama: Erico Vincentcius
